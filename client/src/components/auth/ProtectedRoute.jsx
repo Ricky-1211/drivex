@@ -10,7 +10,7 @@ const ProtectedRoute = ({children}) => {
         return (
             <div className='min-h-screen bg-slate-50 flex flex-col items-center justify-center gap-3'>
                 <Spinner size="lg" className="text-orange-600"/>
-                <p className="text-sm text-slate-500 font-medium">Loading Drivea...</p>
+                <p className="text-sm text-slate-500 font-medium">Loading Drivex...</p>
             </div>
         )
     }

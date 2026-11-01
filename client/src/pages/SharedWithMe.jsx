@@ -29,7 +29,7 @@ const SharedWithMe = () => {
       <header className='h-16 border-b border-slate-200 bg-white px-6 flex items-center justify-between'>
         <Link to="/" className="flex items-center gap-3">
           <img src="/logo.svg" alt="logo" className="size-7"/>
-          <span className='text-2xl font-medium text-slate-900'>Drivea</span>
+          <span className='text-2xl font-medium text-slate-900'>Drivex</span>
         </Link>
         <Link to="/login" className="text-xs font-semibold text-orange-600 hover:underline">
           Sign In

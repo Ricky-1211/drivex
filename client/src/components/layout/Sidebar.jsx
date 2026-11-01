@@ -43,7 +43,7 @@ const Sidebar = ({onCreateFolderClick, isMobileOpen, setIsMobileOpen}) => {
         <div className='flex items-center gap-3 px-6 py-5 border-b border-slate-200'>
             <img src="/logo.svg" alt="Logo" className='size-11'/>
             <div>
-                <h1 className="text-2xl font-medium uppercase text-slate-800">Drivea</h1>
+                <h1 className="text-2xl font-medium uppercase text-slate-800">Drivex</h1>
                 <p className="text-xs text-slate-500 tracking-wider font-medium uppercase">Cloud Storage</p>
             </div>
         </div>
